@@ -1,0 +1,11 @@
+name: keras
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - scipy
+  - bzip2
+  - keras
+  - numpy
+  - pandas
+  - seaborn
